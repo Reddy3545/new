@@ -1,0 +1,227 @@
+$ history
+    1  git init
+    2  git status
+    3  touch Dbconnect.java
+    4  git status
+    5  ls
+    6  cd raju
+    7  ls
+    8  cd
+    9  ls
+   10  cd e:
+   11  cd e
+   12  cd/f
+   13  cd f:
+   14  ls
+   15  cd AZURE
+   16  ls
+   17  pwd
+   18  cd .
+   19  cd.
+   20  cd..
+   21  cd ..
+   22  mkdir reddy
+   23  ls
+   24  cat>reddy
+   25  cat>raju
+   26  more raju
+   27  touch raj
+   28  rm raju
+   29  ls
+   30  rm -r reddy
+   31  ls
+   32  ps
+   33  top
+   34  mkdir reddy
+   35  top
+   36  date
+   37  cal
+   38  uptime
+   39  w
+   40  who am i
+   41  whoami
+   42  finger user
+   43  cal
+   44  cal
+   45  cal 03 2021
+   46  ls
+   47  ls-
+   48  clear
+   49  cal
+   50  ls
+   51  mk dir
+   52  mkdir
+   53  mkdir --help
+   54  java
+   55  junkins
+   56  jenkins
+   57  abt jenkins
+   58  java
+   59  jenkins
+   60  git
+   61  cal
+   62  cel
+   63  calender
+   64  03 1989
+   65  03-1989
+   66  cal -03-1989
+   67  jenkins
+   68  cal
+   69  date
+   70  cel
+   71  git
+   72  java
+   73  aws
+   74  oracle
+   75  videos
+   76  dir
+   77  java version
+   78  ls
+   79  df -h
+   80  du -h
+   81  ls -lter
+   82  myipconfig
+   83  ls
+   84  ls -h
+   85  ls -lter
+   86  ll
+   87  pwd
+   88  ls -h
+   89  java
+   90  jenkins
+   91  aws
+   92  git
+   93  git version
+   94  java version
+   95  java
+   96  cls
+   97  clear
+   98  ls
+   99  ls -l
+  100  ssh -i "DEV KEY.pem" ec2-user@ec2-18-220-224-7.us-east-2.compute.amazonaws.com
+  101  ssh -i "AWSKEY.pem" ec2-user@ec2-3-139-93-68.us-east-2.compute.amazonaws.com
+  102  ls
+  103  cd /
+  104  ls -l
+  105  cls
+  106  clear
+  107  ls
+  108  clear
+  109  which git
+  110  git --version
+  111  git config --global user.name "Reddy"
+  112  git config --global user.emal "rajudesaimd5@gmail.com"
+  113  git config --global push.default "Sample"
+  114  pwd
+  115  git clone https://github.com/Reddy3545/Nov2020.git
+  116  pwd
+  117  cd /F/Git class
+  118  cd /f/git class/
+  119  pws
+  120  pwd
+  121  cd /F/Git Class/git/
+  122  pwd
+  123  cd /f/git/
+  124  pwd
+  125  git clone https://github.com/Reddy3545/Nov2020.git
+  126  git push
+  127  git clone https://github.com/Reddy3545/Nov2020.git workspace00
+  128  pwd
+  129  ls
+  130  git clone https://github.com/Reddy3545/Nov2020.git
+  131  which gitclear
+  132  clear
+  133  pwd
+  134  git config --global push.default "Sample"
+  135  git clone https://github.com/Reddy3545/Nov2020.git
+  136  cal
+  137  echo "# Nov2020" >> README.md
+  138  git init
+  139  git add README.md
+  140  git commit -m "first commit"
+  141  ls
+  142  pwd
+  143  clear
+  144  ls
+  145  git clone https://github.com/Reddy3545/Testing.git
+  146  git clone https://github.com/Reddy3545/Testing.git
+  147  git .add
+  148  echo $name
+  149  name=RAJA
+  150  echo $name
+  151  echo $HOME
+  152  echo $PATH
+  153  javac
+  154  java
+  155  mvn --version
+  156  cal
+  157  date
+  158  ls
+  159  cd
+  160  cd f
+  161  cd f:
+  162  ls
+  163  mkdir MVN
+  164  ls
+  165   cd MVN
+  166  mvn archetype:generate
+  167  ls
+  168  ls -l
+  169  mvn --version
+  170  cd f:
+  171  cd mvn
+  172  ls
+  173  mkdir raju
+  174  ls
+  175  ls
+  176  mvn archetype:generate
+  177  git config --list
+  178  git config user.name=reddy
+  179  git config user.name=
+  180  git push.default=yes
+  181  git init --bare
+  182  git clone /f/git/GitPract.git DEV/
+  183  exit
+  184  pwd
+  185  git init --bare
+  186  git init-bare
+  187  git clone /f/git/GitPract.git
+  188  logout
+  189  mkdir gitdemo
+  190  pwd
+  191  cd gitdemo
+  192  git init
+  193  git config --global push.default matching
+  194  git init
+  195  git status
+  196  git add demo
+  197  touch demo
+  198  git status
+  199  git add.
+  200  git add .
+  201  git status
+  202  vim demo
+  203  cat demo
+  204  git commit -m "This is first commit"
+  205  git status
+  206  git commit
+  207  git config --global user.email "rajudesaimd5@gmail.com"
+  208  git config --global user.name "reddy"
+  209  git status
+  210  git commit
+  211  git status
+  212  git commit
+  213  git status
+  214  git add .
+  215  git add demo
+  216  git status
+  217  git remote add origin https://github.com/Reddy3545/New-git-demo.git
+  218  git remote -v
+  219  git push -u origin master
+  220  git status
+  221  git remote add origin https://github.com/Reddy3545/New-git-demo.git
+  222  git push
+  223  git push
+  224  history
+
+
